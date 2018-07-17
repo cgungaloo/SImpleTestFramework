@@ -1,0 +1,94 @@
+-------------------------------------------------------------------------------
+Test set: Parallel03IT
+-------------------------------------------------------------------------------
+Tests run: 37, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 73.928 s <<< FAILURE! - in Parallel03IT
+Then I should see the terms page(Scenario: Go to terms)  Time elapsed: 0.005 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Scenario: Go to terms  Time elapsed: 0.005 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Then I should see the terms page(Scenario: Go to terms)  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Scenario: Go to terms  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Then I should see the terms page(Scenario: Go to terms)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Scenario: Go to terms  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Then I should see the terms page(Scenario: Go to terms)  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Scenario: Go to terms  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Then I should see the terms page(Scenario: Go to terms)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+
+Scenario: Go to terms  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id="maia-nav-y"]/ul/li[1] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.xpath: //*[@id="maia-nav-y"]/ul/li[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'ECS0673.local', ip: 'fe80:0:0:0:43b:6b31:af44:fadd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '10'
+Driver info: driver.version: unknown
+

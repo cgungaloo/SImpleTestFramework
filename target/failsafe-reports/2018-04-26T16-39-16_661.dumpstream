@@ -1,0 +1,45 @@
+# Created on 2018-04-26T16:39:16.661
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2018-04-26T16:39:16.662
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/Users/chris/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created on 2018-04-26T16:39:16.662
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created on 2018-04-26T16:39:16.663
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2018-04-26T16:39:16.663
+WARNING: All illegal access operations will be denied in a future release
+
+# Created on 2018-04-26T16:39:17.049
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2018-04-26T16:39:17.049
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/Users/chris/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created on 2018-04-26T16:39:17.055
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created on 2018-04-26T16:39:17.055
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2018-04-26T16:39:17.056
+WARNING: All illegal access operations will be denied in a future release
+
+# Created on 2018-04-26T16:39:17.228
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2018-04-26T16:39:17.228
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/Users/chris/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created on 2018-04-26T16:39:17.234
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created on 2018-04-26T16:39:17.234
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2018-04-26T16:39:17.235
+WARNING: All illegal access operations will be denied in a future release
+
