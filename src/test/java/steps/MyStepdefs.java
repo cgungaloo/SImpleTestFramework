@@ -13,7 +13,7 @@ public class MyStepdefs {
     @Given("^I am on the home page$")
     public void iAmOnTheHomePage() {
         int x = 5;
-        assertEquals(x,5);
+        assertEquals(x,6);
 
     }
 
